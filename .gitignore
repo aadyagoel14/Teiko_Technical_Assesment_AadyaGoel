@@ -1,0 +1,5 @@
+cell-count.db
+output/
+__pycache__/
+*.pyc
+.streamlit/
